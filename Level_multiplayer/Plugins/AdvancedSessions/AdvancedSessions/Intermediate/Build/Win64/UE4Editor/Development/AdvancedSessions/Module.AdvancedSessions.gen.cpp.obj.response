@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -515,10 +515,10 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -548,12 +548,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp"
-/FI"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Fo"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+/FI"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp"
+/FI"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Fo"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
 /TP
 /GR-
 /W4

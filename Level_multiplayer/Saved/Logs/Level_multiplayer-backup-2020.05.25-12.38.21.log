@@ -1,0 +1,1449 @@
+﻿Log file open, 05/25/20 15:19:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Level_multiplayer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.061439
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Display: STEAM: Loading Steam SDK 1.42
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Engine.ini]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Engine.ini]
+[2020.05.25-12.19.20:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Engine.ini]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Engine.ini]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.25-12.19.20:050][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Engine.ini]
+[2020.05.25-12.19.20:050][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Engine.ini]
+[2020.05.25-12.19.20:052][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:052][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.25-12.19.20:053][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.25-12.19.20:054][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.25-12.19.20:054][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.25-12.19.20:054][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:054][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.25-12.19.20:054][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.25-12.19.20:054][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.25-12.19.20:054][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.25-12.19.20:056][  0]LogHAL: Display: Platform has ~ 8 GB [8530468864 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.25-12.19.20:056][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.25-12.19.20:056][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.25-12.19.20:056][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Scalability.ini]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.25-12.19.20:057][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Config/Windows/Engine.ini]
+[2020.05.25-12.19.20:057][  0]LogInit: Computer: DESKTOP-9MTLCG4
+[2020.05.25-12.19.20:057][  0]LogInit: User: Home
+[2020.05.25-12.19.20:057][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.25-12.19.20:057][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.25-12.19.20:058][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.05.25-12.19.20:058][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.25-12.19.20:058][  0]LogMemory: Process Physical Memory: 100.93 MB used, 100.93 MB peak
+[2020.05.25-12.19.20:058][  0]LogMemory: Process Virtual Memory: 99.91 MB used, 99.91 MB peak
+[2020.05.25-12.19.20:058][  0]LogMemory: Physical Memory: 3632.82 MB used,  4502.47 MB free, 8135.29 MB total
+[2020.05.25-12.19.20:058][  0]LogMemory: Virtual Memory: 4656.91 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.05.25-12.19.20:060][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.25-12.19.20:080][  0]LogInit: Using OS detected language (ru-RU).
+[2020.05.25-12.19.20:080][  0]LogInit: Using OS detected locale (ru-RU).
+[2020.05.25-12.19.20:080][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2020.05.25-12.19.20:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2020.05.25-12.19.20:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2020.05.25-12.19.20:080][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2020.05.25-12.19.20:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2020.05.25-12.19.20:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2020.05.25-12.19.20:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2020.05.25-12.19.20:081][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2020.05.25-12.19.20:082][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.25-12.19.20:119][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.25-12.19.20:119][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.25-12.19.20:255][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.25-12.19.20:255][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.25-12.19.20:323][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.05.25-12.19.20:324][  0]LogD3D11RHI:       4018/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.25-12.19.20:326][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.25-12.19.20:326][  0]LogD3D11RHI:       0/0/4067 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.25-12.19.20:326][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.25-12.19.20:332][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.25-12.19.20:333][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.25-12.19.20:333][  0]LogWindows: EnumDisplayDevices:
+[2020.05.25-12.19.20:333][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2020.05.25-12.19.20:333][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.05.25-12.19.20:333][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.05.25-12.19.20:333][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.05.25-12.19.20:334][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.25-12.19.20:334][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.05.25-12.19.20:334][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.05.25-12.19.20:334][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.05.25-12.19.20:334][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.05.25-12.19.20:383][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.25-12.19.20:402][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.25-12.19.20:686][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.25-12.19.20:693][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.25-12.19.20:701][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.25-12.19.20:708][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.25-12.19.20:715][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.25-12.19.20:723][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.25-12.19.20:730][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.25-12.19.20:737][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.25-12.19.20:741][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.25-12.19.20:771][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.25-12.19.20:772][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.25-12.19.20:773][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.25-12.19.20:787][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.25-12.19.20:787][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.25-12.19.20:800][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.25-12.19.20:800][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.25-12.19.20:806][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.25-12.19.20:813][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.25-12.19.20:819][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.25-12.19.20:826][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.25-12.19.20:846][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.25-12.19.20:846][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.25-12.19.20:846][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.25-12.19.20:853][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.25-12.19.20:890][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../Unreal Projects/Level-multiplayer/Level_multiplayer/Intermediate/Shaders/WorkingDirectory/10404/).
+[2020.05.25-12.19.20:890][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Home/AppData/Local/Temp/UnrealShaderWorkingDir/A0ACDBDD43C1D5731B61C8AFA19C6340/'.
+[2020.05.25-12.19.20:892][  0]LogXGEController: Cleaning working directory: C:/Users/Home/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.25-12.19.20:892][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.25-12.19.20:892][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.25-12.19.20:892][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.25-12.19.21:493][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.25-12.19.21:544][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/Home/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.05.25-12.19.21:544][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Home/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.05.25-12.19.21:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/Level-multiplayer/Level_multiplayer/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.25-12.19.21:544][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.25-12.19.21:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/Level-multiplayer/Level_multiplayer/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.25-12.19.21:544][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.25-12.19.21:556][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.25-12.19.21:556][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.25-12.19.21:556][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.25-12.19.21:557][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Home/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.25-12.19.21:557][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.25-12.19.21:557][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.25-12.19.21:578][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.25-12.19.21:580][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.25-12.19.21:581][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.25-12.19.21:630][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.05.25-12.19.21:876][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.25-12.19.22:013][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.25-12.19.22:013][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.25-12.19.22:013][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.25-12.19.22:013][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.25-12.19.22:013][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.25-12.19.22:023][  0]LogNetVersion: Level_multiplayer 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1373827013)
+[2020.05.25-12.19.22:423][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.051167 seconds
+[2020.05.25-12.19.22:430][  0]LogUObjectArray: 43453 objects as part of root set at end of initial load.
+[2020.05.25-12.19.22:430][  0]LogUObjectAllocator: 7559736 out of 0 bytes used by permanent object pool.
+[2020.05.25-12.19.22:430][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.25-12.19.23:184][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.25-12.19.23:186][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.25-12.19.23:288][  0]SourceControl: Source control is disabled
+[2020.05.25-12.19.23:666][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.25-12.19.23:777][  0]LogOcInput: OculusInput pre-init called
+[2020.05.25-12.19.23:782][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.25-12.19.23:782][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.25-12.19.23:842][  0]LogEngine: Initializing Engine...
+[2020.05.25-12.19.23:843][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.25-12.19.23:844][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.25-12.19.24:058][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.25-12.19.24:069][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.25-12.19.24:098][  0]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.25-12.19.24:142][  0]LogInit: FAudioDevice initialized.
+[2020.05.25-12.19.24:142][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.25-12.19.24:216][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/Home/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.05.25-12.19.24:223][  0]LogInit: Texture streaming: Enabled
+[2020.05.25-12.19.24:236][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.25-12.19.24:236][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.25-12.19.24:237][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.25-12.19.24:289][  0]LogInit: Transaction tracking system initialized
+[2020.05.25-12.19.24:311][  0]BlueprintLog: New page: Editor Load
+[2020.05.25-12.19.24:364][  0]LocalizationService: Localization service is disabled
+[2020.05.25-12.19.24:400][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-12.19.24:401][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-12.19.24:401][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.05.25-12.19.24:578][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Content/' took 0.00s
+[2020.05.25-12.19.24:579][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.25-12.19.24:579][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.25-12.19.24:725][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/Level-multiplayer/Level_multiplayer/Content/MultiplayerTemplate/Levels/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.25-12.19.24:731][  0]LightingResults: New page: Lighting Build
+[2020.05.25-12.19.24:733][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-12.19.24:733][  0]MapCheck: New page: Map Check
+[2020.05.25-12.19.24:733][  0]LightingResults: New page: Lighting Build
+[2020.05.25-12.19.24:758][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.05.25-12.19.25:027][  0]LogAIModule: Creating AISystem for world MainMenuMap
+[2020.05.25-12.19.25:030][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.25-12.19.25:058][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.05.25-12.19.25:058][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.25-12.19.25:058][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,087ms to complete.
+[2020.05.25-12.19.25:058][  0]LogFileHelpers: Loading map 'MainMenuMap' took 0.334
+[2020.05.25-12.19.25:194][  0]LogCollectionManager: Loaded 0 collections in 0.000933 seconds
+[2020.05.25-12.19.25:199][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Saved/Collections/' took 0.00s
+[2020.05.25-12.19.25:199][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Content/Developers/Home/Collections/' took 0.00s
+[2020.05.25-12.19.25:199][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Content/Collections/' took 0.00s
+[2020.05.25-12.19.25:199][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.25-12.19.25:207][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2890 classes and 692 folders.
+[2020.05.25-12.19.25:212][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.25-12.19.25:245][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.25-12.19.25:252][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.05.25-12.19.25:267][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-12.19.25:275][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-12.19.25:282][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-12.19.25:290][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.25-12.19.25:295][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.25-12.19.26:389][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.25-12.19.26:406][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.25-12.19.26:408][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.25-12.19.26:409][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.25-12.19.26:471][  0]LogRenderer: Reallocating scene render targets to support 1176x956 Format 10 NumSamples 1 (Frame:1).
+[2020.05.25-12.19.26:689][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.25-12.19.26:690][  0]LogLoad: (Engine Initialization) Total time: 7.57 seconds
+[2020.05.25-12.19.26:690][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.25-12.19.26:814][  0]LogSteamController: SteamController is not available
+[2020.05.25-12.19.26:865][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.25-12.19.27:055][  4]LogAssetRegistry: Asset discovery search completed in 5.4247 seconds
+[2020.05.25-12.19.27:058][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.05.25-12.19.27:058][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2020.05.25-12.19.33:756][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.25-12.20.30:114][109]LogSlate: Window 'Submit Files' being destroyed
+[2020.05.25-12.20.30:126][110]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={BDCDE6E2-4FFB-1484-8DFE-A8A4A6906773}
+[2020.05.25-12.21.22:088][ 66]LogSlate: Window 'Submit Files' being destroyed
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/Bluprints/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/Bluprints/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/UI/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/UI/': No such file or directory
+[2020.05.25-12.21.22:984][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/UI/': No such file or directory
+[2020.05.25-12.21.24:268][ 66]LogSourceControl: commit successful: [master 60da013] выгрузка 1
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/StartPac/ThirdPersonBP/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/Bluprints/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/Bluprints/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/UI/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/UI/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: Error: warning: could not open directory 'Level_multiplayer/Content/System/UI/': No such file or directory
+[2020.05.25-12.21.25:135][ 66]SourceControl: [master 60da013] выгрузка 1
+[2020.05.25-12.21.25:135][ 66]SourceControl:  46 files changed, 2 deletions(-)
+[2020.05.25-12.21.25:135][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Config/DefaultEditorPerProjectUserSettings.ini
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset (66%)
+[2020.05.25-12.21.25:135][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset (82%)
+[2020.05.25-12.21.25:135][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset (82%)
+[2020.05.25-12.21.25:135][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset (51%)
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2020.05.25-12.21.25:135][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Splash/EdSplash.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Splash/Splash.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonIdle.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonJump_End.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonJump_Loop.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonJump_Start.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonRun.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonWalk.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPerson_AnimBP.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPerson_IdleRun_2D.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPerson_Jump.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/M_UE4Man_Body.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Mesh/SK_Mannequin.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl: [master e4aadcd] выгрузка 1
+[2020.05.25-12.21.25:136][ 66]SourceControl:  Date: Mon May 25 15:21:23 2020 +0300
+[2020.05.25-12.21.25:136][ 66]SourceControl:  67 files changed, 2 deletions(-)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Config/DefaultEditorPerProjectUserSettings.ini
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset (66%)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset (82%)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset (82%)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset (51%)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Textures/UE4Man_Logo_N.uasset (97%)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Textures/UE4_LOGO_CARD.uasset (96%)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset (71%)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  rename Level_multiplayer/Content/{StartPac/ThirdPersonBP => Mannequin}/Character/Textures/UE4_Mannequin__normals.uasset (99%)
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Splash/EdSplash.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/Splash/Splash.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonIdle.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonJump_End.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonJump_Loop.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonJump_Start.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonRun.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPersonWalk.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPerson_AnimBP.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPerson_IdleRun_2D.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Animations/ThirdPerson_Jump.uasset
+[2020.05.25-12.21.25:136][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/M_UE4Man_Body.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Mesh/SK_Mannequin.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/StartPac/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/Bluprints/Global/GI_Global.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/Bluprints/Global/Global_Player_Info.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/Bluprints/Global/SG_Global_Save_Player.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/Bluprints/Lobby/GM_Lobby_Game_Mode.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/Bluprints/Lobby/Lobby_Player_Controller.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/Maps/Lobby.umap
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/Maps/MainMenu.umap
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/Maps/Travel.umap
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/UI/Global/W_Loading_screen.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/UI/Lobby/W_Lobby_menu.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/UI/MainMenu/W_Find_server_menu.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/UI/MainMenu/W_Host_Game_menu.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/UI/MainMenu/W_Main_menu.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/UI/MainMenu/W_Option_menu.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/UI/MainMenu/W_Options_Menu.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  delete mode 100644 Level_multiplayer/Content/System/UI/MainMenu/W_Server_game_menu.uasset
+[2020.05.25-12.21.25:137][ 66]SourceControl:  create mode 100644 Level_multiplayer/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2020.05.25-12.21.25:142][ 66]SourceControl: Commited [master 60da013] выгрузка 1.
+[2020.05.25-12.24.57:506][198]LogSlate: Window 'Submit Files' being destroyed
+[2020.05.25-12.24.58:210][198]LogSourceControl: commit successful: [master d3ab5eb] выгрузка 2
+[2020.05.25-12.24.58:419][198]SourceControl: [master d3ab5eb] выгрузка 2
+[2020.05.25-12.24.58:419][198]SourceControl:  36 files changed, 0 insertions(+), 0 deletions(-)
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/AllLevels/Maps.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/AllLevels/MultiplayerTemplateGameInstance.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/AllLevels/PlayerInfo.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_ByeBye.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_Game_Over.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_Countdown_Time_Start.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_ErrorMessage.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/AllLevels/WBP_LoadingScreen.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayGameMode.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayGameState.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Gameplay/GameplayPlayerState.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Gameplay/WBP_GameplayMenu.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyGameMode.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyGameState.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyPlayerController.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/LobbyPlayerState.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_FriendList.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_Friendlist_Entry.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_LobbyMenu.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_Player_Entry.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/Lobby/WBP_SessionInvitation.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/MainMenu/MainMenuGameMode.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/MainMenu/MainMenuPlayerController.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_HostMenu.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_MainMenu.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerEntry.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerList.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Blueprints/MainMenu/WBP_ServerMenu.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Levels/GameplayMap.umap
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Levels/GameplayMap_BuiltData.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Levels/LobbyMap.umap
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Levels/LobbyMap_BuiltData.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Levels/MainMenuMap.umap
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Levels/MainMenuMap_BuiltData.uasset
+[2020.05.25-12.24.58:419][198]SourceControl:  create mode 100644 Level_multiplayer/Content/MultiplayerTemplate/Levels/TransitionMap.umap
+[2020.05.25-12.24.58:423][198]SourceControl: Commited [master d3ab5eb] выгрузка 2.
+[2020.05.25-12.26.55:262][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.25-12.27.37:936][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.25-12.27.51:170][ 51]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2020.05.25-12.27.51:269][ 63]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Level_multiplayer.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Level_multiplayer.uproject" -cook -stage -archive -archivedirectory=C:/Users/Home/Downloads/MultiplayerTemplate/00 -package -clientconfig=Development -ue4exe="E:\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -utf8output
+[2020.05.25-12.27.51:536][ 95]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Level_multiplayer.uproject
+[2020.05.25-12.27.52:787][244]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2020.05.25-12.27.52:805][246]UATHelper: Packaging (Windows (64-bit)): Running: E:\Epic Games\UE_4.23\Engine\Binaries\DotNET\UnrealBuildTool.exe MultiplayerTemplate Win64 Development -Project="E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Level_multiplayer.uproject"  "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Level_multiplayer.uproject" -NoUBTMakefiles  -remoteini="E:\Unreal Projects\Level-multiplayer\Level_multiplayer" -skipdeploy -Manifest="E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\Home\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.23\UBT-MultiplayerTemplate-Win64-Development.txt"
+[2020.05.25-12.27.53:109][272]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.05.25-12.27.53:246][279]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal Projects\Level-multiplayer).
+[2020.05.25-12.27.54:273][400]UATHelper: Packaging (Windows (64-bit)):   Parsing headers for MultiplayerTemplate
+[2020.05.25-12.27.54:297][403]UATHelper: Packaging (Windows (64-bit)):     Running UnrealHeaderTool "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Level_multiplayer.uproject" "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Win64\MultiplayerTemplate\Development\MultiplayerTemplate.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.05.25-12.28.10:825][385]UATHelper: Packaging (Windows (64-bit)):   Reflection code generated for MultiplayerTemplate in 16,5297353 seconds
+[2020.05.25-12.28.12:342][567]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Manifest.xml
+[2020.05.25-12.28.12:448][579]UATHelper: Packaging (Windows (64-bit)):   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.25-12.28.12:465][581]UATHelper: Packaging (Windows (64-bit)):   Building 13 actions with 4 processes...
+[2020.05.25-12.28.12:748][615]UATHelper: Packaging (Windows (64-bit)):     [1/13] Default.rc2
+[2020.05.25-12.28.37:359][568]UATHelper: Packaging (Windows (64-bit)):     [2/13] SharedPCH.Engine.cpp
+[2020.05.25-12.28.38:127][660]UATHelper: Packaging (Windows (64-bit)):     [3/13] MultiplayerTemplate.cpp
+[2020.05.25-12.28.38:912][754]UATHelper: Packaging (Windows (64-bit)):     [4/13] MultiplayerTemplateGameModeBase.cpp
+[2020.05.25-12.28.39:495][824]UATHelper: Packaging (Windows (64-bit)):     [5/13] MyClass.cpp
+[2020.05.25-12.28.40:154][903]UATHelper: Packaging (Windows (64-bit)):     [6/13] MultiplayerTemplate.init.gen.cpp
+[2020.05.25-12.28.41:113][ 18]UATHelper: Packaging (Windows (64-bit)):     [7/13] MultiplayerTemplateGameModeBase.gen.cpp
+[2020.05.25-12.28.43:776][337]UATHelper: Packaging (Windows (64-bit)):     [8/13] Module.AdvancedSteamSessions.cpp
+[2020.05.25-12.28.44:377][409]UATHelper: Packaging (Windows (64-bit)):     [9/13] Module.AdvancedSteamSessions.gen.cpp
+[2020.05.25-12.28.45:661][563]UATHelper: Packaging (Windows (64-bit)):     [10/13] Module.AdvancedSessions.gen.cpp
+[2020.05.25-12.28.49:380][  9]UATHelper: Packaging (Windows (64-bit)):     [11/13] Module.AdvancedSessions.cpp
+[2020.05.25-12.29.07:116][137]UATHelper: Packaging (Windows (64-bit)):     [12/13] MultiplayerTemplate.exe
+[2020.05.25-12.29.07:116][137]UATHelper: Packaging (Windows (64-bit)):        ��������� ���������� E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Binaries\Win64\MultiplayerTemplate.lib � ������ E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Binaries\Win64\MultiplayerTemplate.exp
+[2020.05.25-12.29.07:290][158]UATHelper: Packaging (Windows (64-bit)):     [13/13] MultiplayerTemplate.target
+[2020.05.25-12.29.07:290][158]UATHelper: Packaging (Windows (64-bit)):   Total time in Parallel executor: 54,83 seconds
+[2020.05.25-12.29.07:324][162]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 74,49 seconds
+[2020.05.25-12.29.07:349][165]UATHelper: Packaging (Windows (64-bit)): Took 74,5506027s to run UnrealBuildTool.exe, ExitCode=0
+[2020.05.25-12.29.07:366][167]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2020.05.25-12.29.07:374][168]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2020.05.25-12.29.07:375][168]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Level_multiplayer.uproject
+[2020.05.25-12.29.07:383][169]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is E:\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2020.05.25-15.29.07.txt
+[2020.05.25-12.29.07:384][169]UATHelper: Packaging (Windows (64-bit)): Running: E:\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Level_multiplayer.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="E:\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2020.05.25-15.29.07.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2020.05.25-12.29.07:491][180]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2020.05.25-12.29.07:491][180]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: Level_multiplayer
+[2020.05.25-12.29.08:375][286]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Display: STEAM: Loading Steam SDK 1.42
+[2020.05.25-12.29.08:375][286]UATHelper: Packaging (Windows (64-bit)):   LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.05.25-12.29.08:398][289]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8530468864 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.25-12.29.08:857][344]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.25-12.29.08:866][345]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.25-12.29.08:866][345]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.25-12.29.08:875][346]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.25-12.29.08:883][347]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.25-12.29.08:893][348]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.25-12.29.08:900][349]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.25-12.29.08:909][350]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.25-12.29.08:917][351]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.25-12.29.08:949][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.25-12.29.08:949][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.25-12.29.08:950][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.25-12.29.08:950][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.25-12.29.08:950][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.25-12.29.08:950][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.25-12.29.08:950][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.25-12.29.08:950][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.25-12.29.08:950][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.25-12.29.08:951][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.25-12.29.08:951][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.25-12.29.08:951][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.25-12.29.08:951][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.25-12.29.08:952][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.25-12.29.08:952][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.25-12.29.08:952][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.25-12.29.08:952][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.25-12.29.08:952][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.25-12.29.08:952][355]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.25-12.29.08:966][357]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.25-12.29.08:966][357]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.25-12.29.08:983][359]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.25-12.29.08:984][359]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.25-12.29.08:984][359]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.25-12.29.08:992][360]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.25-12.29.09:001][361]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.25-12.29.09:010][362]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.25-12.29.09:035][365]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.25-12.29.09:035][365]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.25-12.29.09:035][365]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.05.25-12.29.09:044][366]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.25-12.29.09:085][371]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.25-12.29.09:517][423]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.25-12.29.09:567][429]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Home/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.05.25-12.29.09:584][431]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.25-12.29.10:267][513]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-12.29.10:268][513]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-12.29.10:268][513]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.05.25-12.29.10:268][513]PackagingResults: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-12.29.10:268][513]PackagingResults: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-12.29.10:269][513]PackagingResults: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.05.25-12.29.12:264][752]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.25-12.29.12:264][752]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2020.05.25-12.29.12:264][752]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2020.05.25-12.29.12:431][772]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2020.05.25-12.29.12:440][773]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.05.25-12.29.12:515][782]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.05.25-12.29.12:565][788]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.124 seconds for platforms WindowsNoEditor  iterative false
+[2020.05.25-12.29.13:440][893]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 233 Total 233
+[2020.05.25-12.29.13:687][916]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 232 Total 282
+[2020.05.25-12.29.14:037][949]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 231 Total 331
+[2020.05.25-12.29.14:368][973]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 230 Total 380
+[2020.05.25-12.29.14:500][981]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 168 Packages Remain 229 Total 397
+[2020.05.25-12.29.14:524][983]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 171 Packages Remain 228 Total 399
+[2020.05.25-12.29.14:530][984]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 173 Packages Remain 227 Total 400
+[2020.05.25-12.29.14:549][985]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 174 Packages Remain 226 Total 400
+[2020.05.25-12.29.14:550][985]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 175 Packages Remain 225 Total 400
+[2020.05.25-12.29.14:570][986]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 176 Packages Remain 224 Total 400
+[2020.05.25-12.29.14:570][986]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 178 Packages Remain 223 Total 401
+[2020.05.25-12.29.14:582][987]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 179 Packages Remain 222 Total 401
+[2020.05.25-12.29.14:589][988]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 179 Packages Remain 80 Total 259
+[2020.05.25-12.29.14:665][996]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 190 Packages Remain 79 Total 269
+[2020.05.25-12.29.14:679][997]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 193 Packages Remain 78 Total 271
+[2020.05.25-12.29.14:736][  3]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 198 Packages Remain 77 Total 275
+[2020.05.25-12.29.14:873][ 15]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Script/MPShooter': Can't find file.
+[2020.05.25-12.29.14:873][ 15]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to load '/Script/MPShooter': Can't find file.
+[2020.05.25-12.29.14:874][ 15]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: Failed to find object 'Object /Script/MPShooter.MPCharacter'
+[2020.05.25-12.29.14:874][ 15]PackagingResults: Warning: Failed to load '/Script/MPShooter': Can't find file.
+[2020.05.25-12.29.14:874][ 15]PackagingResults: Warning: Failed to load '/Script/MPShooter': Can't find file.
+[2020.05.25-12.29.14:874][ 15]PackagingResults: Warning: Failed to find object 'Object /Script/MPShooter.MPCharacter'
+[2020.05.25-12.29.14:960][ 22]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 211 Packages Remain 76 Total 287
+[2020.05.25-12.29.15:343][ 61]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 235 Packages Remain 75 Total 310
+[2020.05.25-12.29.15:343][ 61]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 235 Packages Remain 74 Total 309
+[2020.05.25-12.29.15:396][ 66]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 252 Packages Remain 71 Total 323
+[2020.05.25-12.29.15:432][ 69]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 253 Packages Remain 60 Total 313
+[2020.05.25-12.29.15:464][ 72]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 254 Packages Remain 59 Total 313
+[2020.05.25-12.29.15:489][ 74]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 255 Packages Remain 17 Total 272
+[2020.05.25-12.29.15:489][ 74]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 255 Packages Remain 0 Total 255
+[2020.05.25-12.29.15:490][ 74]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2020.05.25-12.29.15:612][ 86]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.05.25-12.29.15:612][ 86]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.05.25-12.29.15:612][ 86]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.05.25-12.29.15:670][ 93]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.05.25-12.29.15:694][ 96]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 252, size is 126.58kb
+[2020.05.25-12.29.15:694][ 96]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.05.25-12.29.15:703][ 97]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 2.042324s total time 3.442487
+[2020.05.25-12.29.15:703][ 97]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 487MB Peak Used physical 470MB
+[2020.05.25-12.29.15:704][ 97]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2020.05.25-12.29.15:704][ 97]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2020.05.25-12.29.15:711][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 1.172s (1)
+[2020.05.25-12.29.15:711][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 0.156s (1)
+[2020.05.25-12.29.15:712][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 0.124s (1)
+[2020.05.25-12.29.15:712][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.006s (1)
+[2020.05.25-12.29.15:712][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.210s (1)
+[2020.05.25-12.29.15:712][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2020.05.25-12.29.15:712][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2020.05.25-12.29.15:712][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2020.05.25-12.29.15:712][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 2.038s (37)
+[2020.05.25-12.29.15:713][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 0.813s (36)
+[2020.05.25-12.29.15:713][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.055s (37)
+[2020.05.25-12.29.15:713][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.000s (37)
+[2020.05.25-12.29.15:713][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 1.167s (20)
+[2020.05.25-12.29.15:713][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.008s (260)
+[2020.05.25-12.29.15:713][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.309s (251)
+[2020.05.25-12.29.15:713][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.836s (255)
+[2020.05.25-12.29.15:714][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.000s (255)
+[2020.05.25-12.29.15:714][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.824s (255)
+[2020.05.25-12.29.15:714][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.005s (255)
+[2020.05.25-12.29.15:714][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (252)
+[2020.05.25-12.29.15:714][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.005s (255)
+[2020.05.25-12.29.15:714][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (4)
+[2020.05.25-12.29.15:714][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.003s (1)
+[2020.05.25-12.29.15:715][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.045s (1)
+[2020.05.25-12.29.15:715][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2020.05.25-12.29.15:715][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.047s (1)
+[2020.05.25-12.29.15:715][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.009s (1)
+[2020.05.25-12.29.15:715][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2020.05.25-12.29.15:715][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.022s (1)
+[2020.05.25-12.29.15:715][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.013s (1)
+[2020.05.25-12.29.15:715][ 98]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2020.05.25-12.29.15:723][ 99]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.005589s to verify the EDL loading graph.
+[2020.05.25-12.29.15:723][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2020.05.25-12.29.15:723][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2020.05.25-12.29.15:723][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2020.05.25-12.29.15:723][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2020.05.25-12.29.15:723][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.05.25-12.29.15:723][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.05.25-12.29.15:724][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.05.25-12.29.15:724][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000055
+[2020.05.25-12.29.15:724][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2020.05.25-12.29.15:724][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.25-12.29.15:724][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.05.25-12.29.15:725][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.25-12.29.15:725][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2020.05.25-12.29.15:725][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.05.25-12.29.15:725][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2020.05.25-12.29.15:725][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=171
+[2020.05.25-12.29.15:726][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.194128
+[2020.05.25-12.29.15:726][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2020.05.25-12.29.15:726][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=255
+[2020.05.25-12.29.15:726][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.801971
+[2020.05.25-12.29.15:726][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.153228
+[2020.05.25-12.29.15:726][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.049613
+[2020.05.25-12.29.15:726][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.000700
+[2020.05.25-12.29.15:727][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.002627
+[2020.05.25-12.29.15:727][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000173
+[2020.05.25-12.29.15:727][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.05.25-12.29.15:727][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.072919
+[2020.05.25-12.29.15:727][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.072821
+[2020.05.25-12.29.15:727][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.046309
+[2020.05.25-12.29.15:728][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.126646
+[2020.05.25-12.29.15:728][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=69.287245
+[2020.05.25-12.29.15:728][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.05.25-12.29.15:728][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.05.25-12.29.15:728][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.05.25-12.29.15:728][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2020.05.25-12.29.15:728][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.05.25-12.29.15:728][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.05.25-12.29.15:729][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.05.25-12.29.15:729][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.05.25-12.29.15:729][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.25-12.29.15:729][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2020.05.25-12.29.15:729][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2020.05.25-12.29.15:729][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=8.287737
+[2020.05.25-12.29.15:729][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=4.828839
+[2020.05.25-12.29.15:729][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=3.458291
+[2020.05.25-12.29.15:730][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.173157
+[2020.05.25-12.29.15:730][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000418
+[2020.05.25-12.29.15:730][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=2.269659
+[2020.05.25-12.29.15:730][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.814261
+[2020.05.25-12.29.15:730][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.836000
+[2020.05.25-12.29.15:730][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.05.25-12.29.15:731][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.372000
+[2020.05.25-12.29.15:731][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.006224
+[2020.05.25-12.29.15:731][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.05.25-12.29.15:731][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000587
+[2020.05.25-12.29.15:731][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000007
+[2020.05.25-12.29.15:731][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000020
+[2020.05.25-12.29.15:732][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000002
+[2020.05.25-12.29.15:732][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.25-12.29.15:732][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2020.05.25-12.29.15:732][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2020.05.25-12.29.15:732][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits  =       512
+[2020.05.25-12.29.15:732][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets     =       512
+[2020.05.25-12.29.15:732][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2020.05.25-12.29.15:732][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct=  0.052734
+[2020.05.25-12.29.15:733][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2020.05.25-12.29.15:733][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct=  0.947266
+[2020.05.25-12.29.15:733][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2020.05.25-12.29.15:733][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits  =         0
+[2020.05.25-12.29.15:733][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts     =         0
+[2020.05.25-12.29.15:733][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2020.05.25-12.29.15:733][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2020.05.25-12.29.15:733][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2020.05.25-12.29.15:734][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2020.05.25-12.29.15:734][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2020.05.25-12.29.15:734][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.05.25-12.29.15:734][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.05.25-12.29.15:734][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.18                   0.00             0         16.03
+[2020.05.25-12.29.15:734][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.15                   0.15             0          5.37
+[2020.05.25-12.29.15:735][ 99]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.06                   0.06             0         38.30
+[2020.05.25-12.29.15:740][100]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.03                   0.03             0          3.42
+[2020.05.25-12.29.15:740][100]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.02                   0.02             0          2.06
+[2020.05.25-12.29.15:740][100]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.02                   0.02             0          0.48
+[2020.05.25-12.29.15:740][100]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.02                   0.02             0          1.06
+[2020.05.25-12.29.15:741][100]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.02
+[2020.05.25-12.29.15:741][100]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2020.05.25-12.29.15:741][100]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.03
+[2020.05.25-12.29.15:741][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.25-12.29.15:741][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2020.05.25-12.29.15:741][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2020.05.25-12.29.15:741][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.05.25-12.29.15:742][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.05.25-12.29.15:742][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Script/MPShooter': Can't find file.
+[2020.05.25-12.29.15:742][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: Failed to find object 'Object /Script/MPShooter.MPCharacter'
+[2020.05.25-12.29.15:742][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.25-12.29.15:742][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 6 warning(s)
+[2020.05.25-12.29.15:742][100]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2020.05.25-12.29.15:743][100]UATHelper: Packaging (Windows (64-bit)):   
+[2020.05.25-12.29.15:743][100]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  3.48 seconds
+[2020.05.25-12.29.16:273][164]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.25-12.29.16:273][164]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.25-12.29.16:273][164]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.25-12.29.16:299][167]UATHelper: Packaging (Windows (64-bit)): Took 8,921259s to run UE4Editor-Cmd.exe, ExitCode=0
+[2020.05.25-12.29.16:307][168]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2020.05.25-12.29.16:308][168]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2020.05.25-12.29.16:365][175]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2020.05.25-12.29.16:523][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2020.05.25-12.29.16:523][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2020.05.25-12.29.16:523][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2020.05.25-12.29.16:524][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2020.05.25-12.29.16:524][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2020.05.25-12.29.16:524][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2020.05.25-12.29.16:524][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2020.05.25-12.29.16:524][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2020.05.25-12.29.16:525][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2020.05.25-12.29.16:525][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2020.05.25-12.29.16:525][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2020.05.25-12.29.16:525][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2020.05.25-12.29.16:525][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2020.05.25-12.29.16:525][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2020.05.25-12.29.16:525][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2020.05.25-12.29.16:526][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2020.05.25-12.29.16:526][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2020.05.25-12.29.16:526][194]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2020.05.25-12.29.16:531][195]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Config\DefaultCrypto.ini
+[2020.05.25-12.29.16:532][195]UATHelper: Packaging (Windows (64-bit)): Excluding config file E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Config\DefaultEditor.ini
+[2020.05.25-12.29.16:615][205]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Saved\StagedBuilds\WindowsNoEditor
+[2020.05.25-12.29.16:640][208]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2020.05.25-12.29.16:881][237]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2020.05.25-12.29.19:658][569]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2020.05.25-12.29.19:659][569]UATHelper: Packaging (Windows (64-bit)): Output from: "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Level_multiplayer.uproject" "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Saved\StagedBuilds\WindowsNoEditor\Level_multiplayer\Content\Paks\Level_multiplayer-WindowsNoEditor.pak" -create="C:\Users\Home\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.23\PakList_Level_multiplayer-WindowsNoEditor.txt" -cryptokeys="E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Saved\Cooked\WindowsNoEditor\Level_multiplayer\Metadata\Crypto.json" -order="E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\Home\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.23\UnrealPak-Level_multiplayer-WindowsNoEditor-2020.05.25-15.29.16.txt"
+[2020.05.25-12.29.19:660][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2020.05.25-12.29.19:660][569]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2020.05.25-12.29.19:660][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Home\AppData\Roaming\Unreal Engine\AutomationTool\Logs\E+Epic+Games+UE_4.23\PakList_Level_multiplayer-WindowsNoEditor.txt
+[2020.05.25-12.29.19:660][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1403 entries to add to pak file.
+[2020.05.25-12.29.19:661][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2020.05.25-12.29.19:661][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2020.05.25-12.29.19:661][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2020.05.25-12.29.19:661][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1403 files in 0.01s.
+[2020.05.25-12.29.19:662][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Saved\StagedBuilds\WindowsNoEditor\Level_multiplayer\Content\Paks\Level_multiplayer-WindowsNoEditor.pak.
+[2020.05.25-12.29.19:662][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Using encryption key 'Default' [00000000000000000000000000000000]
+[2020.05.25-12.29.19:662][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1403 files, 87353289 bytes total, time 1.98s.
+[2020.05.25-12.29.19:662][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2020.05.25-12.29.19:662][569]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 2.023387 seconds
+[2020.05.25-12.29.19:662][569]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2020.05.25-12.29.19:668][570]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Saved\StagedBuilds\WindowsNoEditor
+[2020.05.25-12.29.20:984][728]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2020.05.25-12.29.20:993][729]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2020.05.25-12.29.20:994][729]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2020.05.25-12.29.20:994][729]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2020.05.25-12.29.20:994][729]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/Home/Downloads/MultiplayerTemplate/00
+[2020.05.25-12.29.21:734][818]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2020.05.25-12.29.21:735][818]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2020.05.25-12.29.21:735][818]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2020.05.25-12.31.38:445][ 76]LogSlate: Window 'Output Log' being destroyed
+[2020.05.25-12.31.38:449][ 76]LogSlate: Window 'Output Log' being destroyed
+[2020.05.25-12.31.40:530][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.05.25-12.31.58:838][492]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.25-12.31.58:838][492]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.25-12.35.02:335][934]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.25-12.35.09:712][809]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.25-12.35.14:528][914]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.25-12.35.23:625][560]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.25-12.38.02:384][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.25-12.38.18:812][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.25-12.38.19:872][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.05.25-12.38.19:948][198]LogSlate: Window 'Level_multiplayer - Unreal Editor' being destroyed
+[2020.05.25-12.38.19:949][198]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.25-12.38.20:098][199]Cmd: QUIT_EDITOR
+[2020.05.25-12.38.20:170][199]LogExit: Preparing to exit.
+[2020.05.25-12.38.20:773][199]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-12.38.20:783][199]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.25-12.38.20:799][199]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.25-12.38.20:799][199]LogExit: Editor shut down
+[2020.05.25-12.38.20:800][199]LogExit: Transaction tracking system shut down
+[2020.05.25-12.38.20:996][199]LogExit: Object subsystem successfully closed.
+[2020.05.25-12.38.21:007][199]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.25-12.38.21:036][199]LogModuleManager: Shutting down and abandoning module UATHelper (686)
+[2020.05.25-12.38.21:036][199]LogModuleManager: Shutting down and abandoning module LauncherServices (684)
+[2020.05.25-12.38.21:036][199]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (682)
+[2020.05.25-12.38.21:036][199]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (680)
+[2020.05.25-12.38.21:036][199]LogModuleManager: Shutting down and abandoning module SceneOutliner (678)
+[2020.05.25-12.38.21:036][199]LogModuleManager: Shutting down and abandoning module WorldBrowser (676)
+[2020.05.25-12.38.21:037][199]LogModuleManager: Shutting down and abandoning module AddContentDialog (674)
+[2020.05.25-12.38.21:038][199]LogModuleManager: Shutting down and abandoning module WidgetCarousel (673)
+[2020.05.25-12.38.21:038][199]LogModuleManager: Shutting down and abandoning module EditorWidgets (670)
+[2020.05.25-12.38.21:038][199]LogModuleManager: Shutting down and abandoning module CollectionManager (668)
+[2020.05.25-12.38.21:038][199]LogModuleManager: Shutting down and abandoning module StatsViewer (666)
+[2020.05.25-12.38.21:040][199]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (664)
+[2020.05.25-12.38.21:040][199]LogModuleManager: Shutting down and abandoning module FoliageEdit (662)
+[2020.05.25-12.38.21:040][199]LogModuleManager: Shutting down and abandoning module LandscapeEditor (660)
+[2020.05.25-12.38.21:043][199]LogModuleManager: Shutting down and abandoning module MeshPaintMode (658)
+[2020.05.25-12.38.21:043][199]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (656)
+[2020.05.25-12.38.21:043][199]LogModuleManager: Shutting down and abandoning module ActorPickerMode (654)
+[2020.05.25-12.38.21:043][199]LogModuleManager: Shutting down and abandoning module GeometryMode (652)
+[2020.05.25-12.38.21:043][199]LogModuleManager: Shutting down and abandoning module TextureAlignMode (650)
+[2020.05.25-12.38.21:043][199]LogModuleManager: Shutting down and abandoning module BspMode (648)
+[2020.05.25-12.38.21:043][199]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (646)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (644)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module AutomationWorker (642)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module OculusMR (640)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (638)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (636)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (634)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module PlacementMode (633)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module MaterialEditor (632)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (628)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (626)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (624)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (622)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (620)
+[2020.05.25-12.38.21:045][199]LogModuleManager: Shutting down and abandoning module WebMMedia (618)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (616)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (614)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module SequenceRecorder (613)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (610)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (608)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (606)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (604)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (602)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (600)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (598)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (596)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (594)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (592)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (590)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module CharacterAI (588)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module SmartSnapping (586)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module SessionServices (584)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module MeshPaint (582)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module ViewportSnapping (580)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module ViewportInteraction (578)
+[2020.05.25-12.38.21:046][199]LogModuleManager: Shutting down and abandoning module ClothPainter (576)
+[2020.05.25-12.38.21:047][199]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (575)
+[2020.05.25-12.38.21:049][199]LogModuleManager: Shutting down and abandoning module LogVisualizer (572)
+[2020.05.25-12.38.21:050][199]LogModuleManager: Shutting down and abandoning module IntroTutorials (570)
+[2020.05.25-12.38.21:051][199]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (569)
+[2020.05.25-12.38.21:052][199]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (566)
+[2020.05.25-12.38.21:052][199]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (564)
+[2020.05.25-12.38.21:052][199]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (562)
+[2020.05.25-12.38.21:052][199]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (560)
+[2020.05.25-12.38.21:052][199]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (559)
+[2020.05.25-12.38.21:086][199]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (556)
+[2020.05.25-12.38.21:086][199]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (554)
+[2020.05.25-12.38.21:086][199]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (552)
+[2020.05.25-12.38.21:086][199]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (550)
+[2020.05.25-12.38.21:086][199]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (548)
+[2020.05.25-12.38.21:086][199]LogModuleManager: Shutting down and abandoning module InputBindingEditor (546)
+[2020.05.25-12.38.21:087][199]LogModuleManager: Shutting down and abandoning module MergeActors (544)
+[2020.05.25-12.38.21:089][199]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (542)
+[2020.05.25-12.38.21:090][199]LogModuleManager: Shutting down and abandoning module LocalizationService (541)
+[2020.05.25-12.38.21:090][199]LogModuleManager: Shutting down and abandoning module HardwareTargeting (538)
+[2020.05.25-12.38.21:090][199]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (536)
+[2020.05.25-12.38.21:090][199]LogModuleManager: Shutting down and abandoning module UndoHistory (534)
+[2020.05.25-12.38.21:091][199]LogModuleManager: Shutting down and abandoning module XmlParser (532)
+[2020.05.25-12.38.21:091][199]LogModuleManager: Shutting down and abandoning module Blutility (530)
+[2020.05.25-12.38.21:091][199]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (528)
+[2020.05.25-12.38.21:091][199]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (527)
+[2020.05.25-12.38.21:091][199]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (524)
+[2020.05.25-12.38.21:091][199]LogModuleManager: Shutting down and abandoning module SettingsEditor (522)
+[2020.05.25-12.38.21:092][199]LogModuleManager: Shutting down and abandoning module ProjectLauncher (520)
+[2020.05.25-12.38.21:092][199]LogModuleManager: Shutting down and abandoning module SessionFrontend (518)
+[2020.05.25-12.38.21:092][199]LogModuleManager: Shutting down and abandoning module ProfilerClient (516)
+[2020.05.25-12.38.21:093][199]LogModuleManager: Shutting down and abandoning module DeviceManager (514)
+[2020.05.25-12.38.21:094][199]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (513)
+[2020.05.25-12.38.21:138][199]LogModuleManager: Shutting down and abandoning module AutomationController (510)
+[2020.05.25-12.38.21:139][199]LogModuleManager: Shutting down and abandoning module AutomationWindow (508)
+[2020.05.25-12.38.21:140][199]LogModuleManager: Shutting down and abandoning module Layers (506)
+[2020.05.25-12.38.21:143][199]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (504)
+[2020.05.25-12.38.21:143][199]LogModuleManager: Shutting down and abandoning module DetailCustomizations (502)
+[2020.05.25-12.38.21:143][199]LogModuleManager: Shutting down and abandoning module PackagesDialog (500)
+[2020.05.25-12.38.21:143][199]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (498)
+[2020.05.25-12.38.21:146][199]LogModuleManager: Shutting down and abandoning module Persona (496)
+[2020.05.25-12.38.21:146][199]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (495)
+[2020.05.25-12.38.21:146][199]LogModuleManager: Shutting down and abandoning module AnimGraph (493)
+[2020.05.25-12.38.21:146][199]LogModuleManager: Shutting down and abandoning module Kismet (490)
+[2020.05.25-12.38.21:146][199]LogModuleManager: Shutting down and abandoning module KismetWidgets (489)
+[2020.05.25-12.38.21:147][199]LogModuleManager: Shutting down and abandoning module GraphEditor (486)
+[2020.05.25-12.38.21:149][199]LogModuleManager: Shutting down and abandoning module StructViewer (484)
+[2020.05.25-12.38.21:149][199]LogModuleManager: Shutting down and abandoning module ClassViewer (482)
+[2020.05.25-12.38.21:149][199]LogModuleManager: Shutting down and abandoning module Toolbox (480)
+[2020.05.25-12.38.21:149][199]LogModuleManager: Shutting down and abandoning module DesktopPlatform (479)
+[2020.05.25-12.38.21:150][199]LogModuleManager: Shutting down and abandoning module ModuleUI (476)
+[2020.05.25-12.38.21:151][199]LogModuleManager: Shutting down and abandoning module MovieSceneTools (474)
+[2020.05.25-12.38.21:152][199]LogModuleManager: Shutting down and abandoning module OutputLog (472)
+[2020.05.25-12.38.21:152][199]LogModuleManager: Shutting down and abandoning module GammaUI (470)
+[2020.05.25-12.38.21:153][199]LogModuleManager: Shutting down and abandoning module Documentation (468)
+[2020.05.25-12.38.21:153][199]LogModuleManager: Shutting down and abandoning module LiveCoding (466)
+[2020.05.25-12.38.21:153][199]LogModuleManager: Shutting down and abandoning module LevelSequence (464)
+[2020.05.25-12.38.21:153][199]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (462)
+[2020.05.25-12.38.21:153][199]LogModuleManager: Shutting down and abandoning module MovieScene (460)
+[2020.05.25-12.38.21:153][199]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (458)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module LauncherPlatform (456)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module AnalyticsET (454)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module PortalServices (452)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module PortalRpc (450)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module MessagingRpc (448)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module AIModule (446)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module GameplayDebugger (445)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module AITestSuite (443)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module NavigationSystem (441)
+[2020.05.25-12.38.21:154][199]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (438)
+[2020.05.25-12.38.21:161][199]LogModuleManager: Shutting down and abandoning module ProfilerService (436)
+[2020.05.25-12.38.21:287][199]LogModuleManager: Shutting down and abandoning module TaskGraph (434)
+[2020.05.25-12.38.21:291][199]LogModuleManager: Shutting down and abandoning module ScreenshotTools (432)
+[2020.05.25-12.38.21:291][199]LogModuleManager: Shutting down and abandoning module SteamVRController (430)
+[2020.05.25-12.38.21:293][199]LogModuleManager: Shutting down and abandoning module SteamController (428)
+[2020.05.25-12.38.21:294][199]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (426)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (424)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module OculusEditor (422)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module OculusInput (420)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (418)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module EditableMesh (416)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (414)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module CableComponent (412)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module AudioCapture (410)
+[2020.05.25-12.38.21:296][199]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (408)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (406)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module AppleImageUtils (404)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module AndroidPermission (402)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (400)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (398)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module MediaCompositing (396)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module ImgMedia (394)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (392)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (390)
+[2020.05.25-12.38.21:297][199]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (388)
+[2020.05.25-12.38.21:298][199]LogModuleManager: Shutting down and abandoning module HTML5Networking (386)
+[2020.05.25-12.38.21:298][199]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (384)
+[2020.05.25-12.38.21:298][199]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (382)
+[2020.05.25-12.38.21:298][199]LogModuleManager: Shutting down and abandoning module BackChannel (380)
+[2020.05.25-12.38.21:298][199]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (378)
+[2020.05.25-12.38.21:298][199]LogModuleManager: Shutting down and abandoning module AutomationUtils (376)
+[2020.05.25-12.38.21:298][199]LogModuleManager: Shutting down and abandoning module AlembicImporter (374)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module AlembicLibrary (373)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module GeometryCache (372)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (371)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module VariantManagerContent (366)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (364)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (362)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module PluginBrowser (360)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (358)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (356)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module CurveEditorTools (354)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module CurveEditor (353)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (350)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module CryptoKeys (348)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (346)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (344)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module UObjectPlugin (342)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (340)
+[2020.05.25-12.38.21:299][199]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (338)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module GitSourceControl (336)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module SourceControl (335)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (332)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (330)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (328)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (326)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (324)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (322)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (320)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module Paper2DEditor (318)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module MultiplayerTemplate (316)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (314)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module AdvancedSessions (312)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module SignificanceManager (310)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (308)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (306)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (302)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module ActorSequence (300)
+[2020.05.25-12.38.21:300][199]LogModuleManager: Shutting down and abandoning module UdpMessaging (298)
+[2020.05.25-12.38.21:402][199]LogModuleManager: Shutting down and abandoning module TcpMessaging (296)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (294)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (292)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (290)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (288)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module MagicLeapController (286)
+[2020.05.25-12.38.21:503][199]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module MagicLeapAR (284)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module AugmentedReality (283)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2020.05.25-12.38.21:503][199]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2020.05.25-12.38.21:504][199]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2020.05.25-12.38.21:504][199]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2020.05.25-12.38.21:505][199]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2020.05.25-12.38.21:505][199]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2020.05.25-12.38.21:505][199]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2020.05.25-12.38.21:505][199]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2020.05.25-12.38.21:506][199]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2020.05.25-12.38.21:506][199]LogModuleManager: Shutting down and abandoning module AnimationSharing (256)
+[2020.05.25-12.38.21:506][199]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (254)
+[2020.05.25-12.38.21:506][199]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2020.05.25-12.38.21:506][199]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2020.05.25-12.38.21:509][199]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (248)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (246)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2020.05.25-12.38.21:510][199]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2020.05.25-12.38.21:511][199]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2020.05.25-12.38.21:511][199]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (204)
+[2020.05.25-12.38.21:511][199]LogModuleManager: Shutting down and abandoning module EditorStyle (202)
+[2020.05.25-12.38.21:511][199]LogModuleManager: Shutting down and abandoning module UnrealEd (200)
+[2020.05.25-12.38.21:511][199]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2020.05.25-12.38.21:511][199]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module Core (188)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module KismetCompiler (186)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module MeshUtilities (184)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (183)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (182)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (181)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (179)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (168)
+[2020.05.25-12.38.21:512][199]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2020.05.25-12.38.21:527][199]LogDerivedDataCache: Shutdown
+[2020.05.25-12.38.21:527][199]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2020.05.25-12.38.21:527][199]LogXGEController: Cleaning working directory: C:/Users/Home/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2020.05.25-12.38.21:528][199]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2020.05.25-12.38.21:529][199]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2020.05.25-12.38.21:529][199]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.05.25-12.38.21:529][199]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2020.05.25-12.38.21:529][199]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2020.05.25-12.38.21:529][199]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2020.05.25-12.38.21:529][199]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2020.05.25-12.38.21:530][199]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2020.05.25-12.38.21:530][199]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (88)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module PhysXCooking (86)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (84)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (83)
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.05.25-12.38.21:535][199]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.25-12.38.21:535][199]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.05.25-12.38.21:536][199]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.05.25-12.38.21:536][199]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.05.25-12.38.21:536][199]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.05.25-12.38.21:536][199]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.05.25-12.38.21:536][199]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.05.25-12.38.21:537][199]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.05.25-12.38.21:554][199]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.05.25-12.38.21:554][199]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.25-12.38.21:554][199]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD1C229BF-4E8A-D042-0DF2-87AFAD9A8777%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=ba9a9cfa43213710fb7625a010150dff%7C3fc886b8f4f44a23a57c6520132eef4d%7Cbaf403ae-2f5c-4422-ae1f-5f80d82fe943&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.25-12.38.21:578][199]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.05.25-12.38.21:578][199]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.05.25-12.38.21:580][199]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.25-12.38.21:581][199]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.25-12.38.21:583][199]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.25-12.38.21:585][199]LogD3D11RHI: Shutdown
+[2020.05.25-12.38.21:585][199]LogD3D11RHI: CleanupD3DDevice
+[2020.05.25-12.38.21:587][199]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.25-12.38.21:587][199]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.25-12.38.21:587][199]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.25-12.38.21:685][199]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.25-12.38.21:694][199]LogExit: Exiting.
+[2020.05.25-12.38.21:717][199]Log file closed, 05/25/20 15:38:21

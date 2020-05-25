@@ -1,9 +1,9 @@
-C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
-C:/Users/Home/Downloads/MultiplayerTemplate/MultiplayerTemplate/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/AdvancedSteamFriendsLibrary.gen.cpp
+E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
+E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/AdvancedSteamFriendsLibrary.gen.cpp
 E:\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 E:\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h
-C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/AdvancedSteamFriendsLibrary.h
+E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
 E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
 E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
 E:\Epic Games\UE_4.23\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
@@ -137,7 +137,7 @@ E:\Epic Games\UE_4.23\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSu
 e:\epic games\ue_4.23\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\ShowLoginUICallbackProxy.generated.h
 E:\Epic Games\UE_4.23\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h
 e:\epic games\ue_4.23\engine\plugins\online\onlinesubsystemutils\intermediate\build\win64\ue4editor\inc\onlinesubsystemutils\TurnBasedBlueprintLibrary.generated.h
-C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
+E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
 E:\Epic Games\UE_4.23\Engine\Source\ThirdParty\Steamworks\Steamv142\sdk\public\steam/steam_api.h
 e:\epic games\ue_4.23\engine\source\thirdparty\steamworks\steamv142\sdk\public\steam\isteamclient.h
 e:\epic games\ue_4.23\engine\source\thirdparty\steamworks\steamv142\sdk\public\steam\steamtypes.h
@@ -165,16 +165,16 @@ e:\epic games\ue_4.23\engine\source\thirdparty\steamworks\steamv142\sdk\public\s
 e:\epic games\ue_4.23\engine\source\thirdparty\steamworks\steamv142\sdk\public\steam\isteamvideo.h
 e:\epic games\ue_4.23\engine\source\thirdparty\steamworks\steamv142\sdk\public\steam\isteamparentalsettings.h
 e:\epic games\ue_4.23\engine\source\thirdparty\steamworks\steamv142\sdk\public\steam\steam_api_internal.h
-c:\users\home\downloads\multiplayertemplate\multiplayertemplate\plugins\advancedsessions\advancedsteamsessions\intermediate\build\win64\ue4editor\inc\advancedsteamsessions\AdvancedSteamFriendsLibrary.generated.h
-C:/Users/Home/Downloads/MultiplayerTemplate/MultiplayerTemplate/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/AdvancedSteamSessions.init.gen.cpp
-C:/Users/Home/Downloads/MultiplayerTemplate/MultiplayerTemplate/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/AdvancedSteamWorkshopLibrary.gen.cpp
-C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h
-c:\users\home\downloads\multiplayertemplate\multiplayertemplate\plugins\advancedsessions\advancedsteamsessions\intermediate\build\win64\ue4editor\inc\advancedsteamsessions\AdvancedSteamWorkshopLibrary.generated.h
-C:/Users/Home/Downloads/MultiplayerTemplate/MultiplayerTemplate/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/SteamRequestGroupOfficersCallbackProxy.gen.cpp
-C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h
+e:\unreal projects\level-multiplayer\level_multiplayer\plugins\advancedsessions\advancedsteamsessions\intermediate\build\win64\ue4editor\inc\advancedsteamsessions\AdvancedSteamFriendsLibrary.generated.h
+E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/AdvancedSteamSessions.init.gen.cpp
+E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/AdvancedSteamWorkshopLibrary.gen.cpp
+E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/AdvancedSteamWorkshopLibrary.h
+e:\unreal projects\level-multiplayer\level_multiplayer\plugins\advancedsessions\advancedsteamsessions\intermediate\build\win64\ue4editor\inc\advancedsteamsessions\AdvancedSteamWorkshopLibrary.generated.h
+E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/SteamRequestGroupOfficersCallbackProxy.gen.cpp
+E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h
 E:\Epic Games\UE_4.23\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
 e:\epic games\ue_4.23\engine\plugins\online\onlinesubsystemsteam\source\public\OnlineSubsystemSteamPackage.h
-c:\users\home\downloads\multiplayertemplate\multiplayertemplate\plugins\advancedsessions\advancedsteamsessions\intermediate\build\win64\ue4editor\inc\advancedsteamsessions\SteamRequestGroupOfficersCallbackProxy.generated.h
-C:/Users/Home/Downloads/MultiplayerTemplate/MultiplayerTemplate/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/SteamWSRequestUGCDetailsCallbackProxy.gen.cpp
-C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h
-c:\users\home\downloads\multiplayertemplate\multiplayertemplate\plugins\advancedsessions\advancedsteamsessions\intermediate\build\win64\ue4editor\inc\advancedsteamsessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
+e:\unreal projects\level-multiplayer\level_multiplayer\plugins\advancedsessions\advancedsteamsessions\intermediate\build\win64\ue4editor\inc\advancedsteamsessions\SteamRequestGroupOfficersCallbackProxy.generated.h
+E:/Unreal Projects/Level-multiplayer/Level_multiplayer/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UE4Editor/Inc/AdvancedSteamSessions/SteamWSRequestUGCDetailsCallbackProxy.gen.cpp
+E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h
+e:\unreal projects\level-multiplayer\level_multiplayer\plugins\advancedsessions\advancedsteamsessions\intermediate\build\win64\ue4editor\inc\advancedsteamsessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h

@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -515,15 +515,15 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Source
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
-/I C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I ThirdParty\Steamworks\Steamv142\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -559,12 +559,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp"
-/FI"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Users\Home\Downloads\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+/FI"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp"
+/FI"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"E:\Unreal Projects\Level-multiplayer\Level_multiplayer\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
 /TP
 /GR-
 /W4
