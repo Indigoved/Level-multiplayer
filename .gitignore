@@ -42,23 +42,15 @@
 *.VC.opendb
 
 # Binary Files
-Binaries/*
+Binaries/
 Plugins/*/Binaries/*
 
-# Builds
-Build/*
-
-# Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/*/Intermediate/*
+Intermediate/
 
 # Cache files for the editor to use
 DerivedDataCache/*
